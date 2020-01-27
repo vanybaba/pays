@@ -1,0 +1,67 @@
+
+  h1{  color: tomato;
+    text-align: center;
+}
+#vert{
+    color: green;
+    }
+
+nav{
+    text-align: center;
+} 
+nav li{
+        display: inline-block;
+        font-size: larger;
+        font-weight: bold;
+        background-color: tomato;
+        color: white;
+        width: 10%;
+        text-align: center;
+        padding: 5px;
+      
+}
+.image{
+    width: 100%;
+}
+h2{
+    background-color: tomato;
+    color: white;
+    width: 25%;
+    padding: 5px;
+}
+.flotteGauche{
+    float: left;
+    width: 25%;
+    margin: 5px;
+}
+
+.flotteDroite{
+    float: right;
+    width: 25%;
+    margin: 5px;
+}
+.images {
+    display: inline-block;
+    width: 25%;
+   
+}
+.teste{
+color: red;
+width: 450px;
+height: 200px;
+padding: 150PX 60px 80px 90px;
+}
+#menu {
+ margin: 0 ;
+  padding: 0 ;
+  list-style: none ;
+  text-align: center ;
+  
+}
+body{
+    background-color: royalblue;
+    font-size: 20px;
+}
+#img_plage{
+    width: 900px;
+}
